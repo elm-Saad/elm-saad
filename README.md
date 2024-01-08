@@ -1,6 +1,7 @@
 # 𝗛i！
 
 I'm [Saad](https://github.com/elm-saad)！I'm a front-end developer 👨‍💻
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=elm-saad" alt="elm-saad" /> </p>
 
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1da1f2?style=flat-square&labelColor=1da1f2&logo=twitter&logoColor=white&link=https://twitter.com/Yaronzz)](https://twitter.com/elm_saad)
 [![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yaronhuang@foxmail.com)](mailto:saad.elm2002@gmail.com)
