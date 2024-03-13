@@ -1,8 +1,8 @@
 # 𝗛i！
 
-I'm [Saad](https://github.com/elm-saad)! I work as a front-end developer 👨‍💻.
+I'm [Saad](https://github.com/elm-saad)! I work as a React developer 👨‍💻.
 
-👋 Hi there! I'm Saad, a software developer with a background in physics. I discovered my passion for coding two years ago (2021). Now, I'm focused on web development, particularly in React. I'm seeking opportunities at startups where I can make a quick impact. Let's connect and discuss how I can contribute to your team!
+👋 Hi there! I'm Saad, a software developer with a background in physics. I discovered my passion for coding a few years ago. Now, I'm focused on web development, particularly in React. I'm seeking opportunities at startups where I can make a quick impact. Let's connect and discuss how I can contribute to your team!
 
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1da1f2?style=flat-square&labelColor=1da1f2&logo=twitter&logoColor=white&link=https://twitter.com/Yaronzz)](https://twitter.com/elm_saad)
 [![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yaronhuang@foxmail.com)](mailto:saad.elm2002@gmail.com)
